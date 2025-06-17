@@ -1,0 +1,14 @@
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/Rasterizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/Rasterizer.AssemblyInfoInputs.cache
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/Rasterizer.AssemblyInfo.cs
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/Rasterizer.csproj.CoreCompileInputs.cache
+/home/stateus/Documents/Rasterizer/bin/Debug/net9.0/Rasterizer
+/home/stateus/Documents/Rasterizer/bin/Debug/net9.0/Rasterizer.deps.json
+/home/stateus/Documents/Rasterizer/bin/Debug/net9.0/Rasterizer.runtimeconfig.json
+/home/stateus/Documents/Rasterizer/bin/Debug/net9.0/Rasterizer.dll
+/home/stateus/Documents/Rasterizer/bin/Debug/net9.0/Rasterizer.pdb
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/Rasterizer.dll
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/refint/Rasterizer.dll
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/Rasterizer.pdb
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/Rasterizer.genruntimeconfig.cache
+/home/stateus/Documents/Rasterizer/obj/Debug/net9.0/ref/Rasterizer.dll
